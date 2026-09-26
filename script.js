@@ -1,6 +1,6 @@
 // Script do projeto Jokenpô
 
-const result = document.querySelector(".result")
+const result = document.querySelector(".resultado")
 const humanScore = document.querySelector("#human-score")
 const machineScore = document.querySelector("#machine-score")
 
